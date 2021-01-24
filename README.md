@@ -76,3 +76,7 @@ Este projeto foi idealizado e desenvolvido pela [Rocketseat](https://rocketseat.
   # Rode o aplicação
   $ yarn start
   ```
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
