@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#⚙️-configuração">Configuração do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -36,7 +36,7 @@ Este projeto foi idealizado e desenvolvido pela [Rocketseat](https://rocketseat.
 - [SQLite3](https://www.sqlite.org/index.html)
 - [Knex](http://knexjs.org/)
 
-## ⚙️ Configuração do projeto
+## ⚙️ Configuração
 
 - ### **Pré-requisitos**
 
