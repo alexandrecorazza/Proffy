@@ -29,7 +29,6 @@ Este projeto foi idealizado e desenvolvido pela [Rocketseat](https://rocketseat.
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 - [Node](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
