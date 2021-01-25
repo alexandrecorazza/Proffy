@@ -5,7 +5,6 @@
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/alexandrecorazza/proffy?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/alexandrecorazza/proffy?style=flat-square">
   <img alt="GitHub" src="https://img.shields.io/github/license/alexandrecorazza/proffy?style=flat-square"> 
 </p>
 <p align="center">
