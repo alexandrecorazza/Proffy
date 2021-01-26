@@ -73,6 +73,12 @@ Este projeto foi idealizado e desenvolvido pela [Rocketseat](https://rocketseat.
   # Rode o aplicação
   $ yarn start
   ```
+  
+## :pushpin: To-Do
+
+- [x] Adicionar lixeira para cancelar disponibilidade de horário
+- [ ] Implementar aplicação mobile
+- [ ] Autenticação do usuário
 
 ## :memo: Licença
 
